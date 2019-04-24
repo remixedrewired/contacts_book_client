@@ -1,0 +1,17 @@
+{
+  "extends": "react-app",
+  "rules": {
+    "semi": [
+      "error",
+      "never"
+    ],
+    "quotes": [
+      "error",
+      "single"
+    ],
+    "no-trailing-spaces": "error",
+    "no-unused-vars": "warn",
+    "no-console": "warn",
+    "no-var": "error"
+  }
+}
